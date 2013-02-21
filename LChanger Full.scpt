@@ -1,6 +1,6 @@
 -- Written by paulvantuyl (http://paulvantuyl.com) on 02-21-2013
--- Changes a selected Folder, and recursively changes all items in that Folder to a new Label Color
--- Standalone version, has interactive dialogue and requires you to navigate to the Folder you want to change
+-- Changes a selected Directory, and recursively changes all items in that Directory to a new Label Color
+-- Standalone version, has interactive dialogue and requires you to navigate to the Directory you want to change
 
 global target_folder, new_colors, new_color
 
