@@ -1,8 +1,8 @@
 -- Written by paulvantuyl (http://paulvantuyl.com) on 02-21-2013
 
--- Changes a selected Folder, and recursively changes all items in that Folder to a new Label Color
--- Save as an application, install in your Applications Folder
--- Then stick this bad boy in the Finder Toolbar. Select the Folder you want to recursively change, and run LChanger.
+-- Changes a selected Directory, and recursively changes all items in that Directory to a new Label Color
+-- Save as an application in your Applications Directory
+-- Then stick this bad boy in the Finder Toolbar. Select the Directory you want to recursively change, and run LChanger.
 
 global new_colors, new_color
 
