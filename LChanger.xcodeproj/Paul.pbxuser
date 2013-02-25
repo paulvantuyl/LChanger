@@ -1,5 +1,13 @@
 // !$*UTF8*$!
 {
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{15, 615}, {750, 558}}";
+		};
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = DA3E759416DBF60A006CD5C4 /* LChanger */;
@@ -9,12 +17,26 @@
 			DA3E759416DBF60A006CD5C4 /* LChanger */,
 		);
 		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					403,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
 			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
 				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					515,
 					20,
 					48,
 					43,
@@ -34,8 +56,20 @@
 			PBXPerProjectTemplateStateSaveDate = 383514156;
 			PBXWorkspaceStateSaveDate = 383514156;
 		};
+		perUserProjectItems = {
+			DA3E75C416DC2E48006CD5C4 /* PBXBookmark */ = DA3E75C416DC2E48006CD5C4 /* PBXBookmark */;
+			DA3E75C616DC2E48006CD5C4 /* PBXTextBookmark */ = DA3E75C616DC2E48006CD5C4 /* PBXTextBookmark */;
+		};
 		sourceControlManager = DA3E75A716DBF60F006CD5C4 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	3B92A9F80F6ED2CB0023785B /* LChangerAppDelegate.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 603}";
+			sepNavWindowFrame = "{{38, 594}, {750, 558}}";
 		};
 	};
 	8D1107260486CEB800E47090 /* LChanger */ = {
@@ -60,6 +94,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -84,5 +119,19 @@
 	DA3E75A816DBF60F006CD5C4 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	DA3E75C416DC2E48006CD5C4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3B92A9F80F6ED2CB0023785B /* LChangerAppDelegate.applescript */;
+	};
+	DA3E75C616DC2E48006CD5C4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3B92A9F80F6ED2CB0023785B /* LChangerAppDelegate.applescript */;
+		name = "LChangerAppDelegate.applescript: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 603;
+		vrLoc = 0;
 	};
 }
